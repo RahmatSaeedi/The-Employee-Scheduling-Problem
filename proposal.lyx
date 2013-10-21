@@ -1,0 +1,128 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass paper
+\use_default_options true
+\maintain_unincluded_children false
+\language canadian
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks false
+\pdf_pdfborder false
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Project 1 Proposal
+\end_layout
+
+\begin_layout Author
+Cole Fichter, Rahmat Saeedi, Jason Hwang
+\end_layout
+
+\begin_layout Standard
+We have chosen Project Scheduling, so the main question we aim to answer
+ is how best to assign a varied workload to office employees of differing
+ skill levels in such a way that the work is completed in the shortest time
+ possible.
+ Such a problem is applicable to many corporate scenarios in which diverse
+ tasks need to be assigned to a group of employees in a prudent and efficient
+ manner.
+\end_layout
+
+\begin_layout Standard
+We expect that there will be a few unstated constraints.
+ For example, it seems reasonable to assume that the company would not want
+ employees to be idle for long periods of time, and that there will be reasonabl
+e limits upon how long an employee can work in any given day.
+ After solving the general problem, we hope to be able to explore these
+ more concrete issues to provide specific guidance to management about how
+ best to perform day-to-day scheduling operations.
+\end_layout
+
+\begin_layout Standard
+We expect that our references will include materials posted on eClass, the
+ recommended (optional) text book, Operations Research Principles and Practice
+ by Pradeep Pai, and perhaps other sources.
+ All references will be properly documented in the bibliography of our report.
+\end_layout
+
+\begin_layout Standard
+On the surface, our problem appears to be a fairly-typical linear programming
+ problem.
+ We intend to follow the methods presented in class, with the assistance
+ of computer algebra programs such as Maple, Matlab, Python, R, or others.
+ Our final report will be typeset using LaTeX.
+ We have set up a GitHub repository for our project deliverables at 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://github.com/colefichter/math372_project_1
+\end_layout
+
+\end_inset
+
+ to facilitate distributed collaboration.
+\end_layout
+
+\end_body
+\end_document
